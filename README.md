@@ -1,5 +1,5 @@
 # NavalBattle
-<p>The Naval Battle is game that you insert all three type of vessels in matrix altrought the coordinates(row,column) and the types of vessels are Aircraft Carrier,Cruiser,Frigate. </p>
+<p> The Naval Battle is a game in which you insert all three types of vessels in a matrix, although the coordinates (row, column) and the types of vessels are Aircraft Carrier, Cruiser, and frigate. </p>
 <h2>How the game works</h2>
 <p> The player needs to insert all the vessels in the Defense matrix, and the attacker has 50 chances to hit all the vessels. The aircraft carrier in the game is represented by "A" ,the Cruiser is represented by "C," and the Frigate is represented by "F"</p>
 <h2>How the pontuation works</h2>
