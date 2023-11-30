@@ -4,6 +4,6 @@
 <p> The player need insert all the vessel in the Defense matrix </p>
  <p> The attacker have 50 chances to hit all the vessels</p>
 <h1>How the pontuation works</h1>
-<p> When Hit a part of aircraft carrier ,the attacker score 30 points</p>
-<p> When Hit a part of cruiser ,the attacker score 40 points</p>
-<p> When Hit a part of frigate ,the attacker score 50 points</p>
+<p> When the attacker hit a part of aircraft carrier ,the attacker score 30 points</p>
+<p> When the attacker hit a part of cruiser ,the attacker score 40 points</p>
+<p> When the attacker hit a part of frigate ,the attacker score 50 points</p>
