@@ -24,7 +24,7 @@
 ```bash
 python --version
 ```
-<p>Se Python estiver instalado, a versão instalada será exibida. Caso contrário, você precisará instalar o Python a partir do site oficial.</p>
+<p>Se Python estiver instalado, a versão instalada será exibida. Caso contrário, você precisará instalar o Python a partir do site oficial(https://www.python.org/downloads/).</p>
 </ol>
 
 
