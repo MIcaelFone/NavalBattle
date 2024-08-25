@@ -17,13 +17,13 @@
 ## 🚀 Como executar este projeto
 
 <p>Para rodar o projeto, você precisa ter a versão mais recente do <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> instalada e uma IDE para Python configurada.</p>
-
-1. Certifique-se de ter o Python instalado
+<oL>  
+<li><h3>Certifique-se de ter o Python instalado</h3></li>
 <p>Verifique se o Python está instalado na sua máquina. Você pode fazer isso abrindo o terminal (ou prompt de comando) e digitando:</p>
 
 ```bash
 python --version
 ```
-
+</ol>
 
 
