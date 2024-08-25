@@ -1,11 +1,24 @@
-# Naval Battle
-<p> The Naval Battle is a game in which you insert all three types of vessels in a matrix, although the coordinates (row, column) and the types of vessels are Aircraft Carrier, Cruiser, and frigate,and the game has a attacker player who will try hit all the vessels </p>
-<h2>How the game works</h2>
-<p> The player needs to insert all the vessels in the Defense matrix, and the attacker has 50 chances to hit all the vessels. The aircraft carrier in the game is represented by "A" ,the Cruiser is represented by "C," and the Frigate is represented by "F". The aircraft carrier has 4 parts, the cruiser has 3 parts, and the frigate has 2 parts.</p>
-<img src="/assets/matrix de defesa.png">
-<h2>How the score works</h2>
-<p> When the attacker hit a part of aircraft carrier, he scores 30 points, if he hits a part of a cruiser, he scores 40 points; and when the attacker hit a part of frigate will score 50 points.If the attacker tries 50 chances without hit all the vessels ,he lose the game</p>
-<img src="/assets/matrix de ataque.png">
-<h2>How can I run this project</h2>
-<p>  
-You need to install the latest version of Python and have a Python IDE</p>
+ 
+# Naval Battle ⚓
+
+<p>Naval Battle é um jogo em que você posiciona três tipos de embarcações em uma matriz: Porta-Aviões, Cruzador e Fragata. Um jogador atacante tenta acertar todas as embarcações com 50 tentativas. </p>
+
+## 📖 Como o jogo funciona
+
+<p>O jogador precisa posicionar todas as embarcações na matriz de defesa. O atacante tem 50 chances para acertar todas as embarcações. O Porta-Aviões é representado por "A", o Cruzador por "C", e a Fragata por "F". O Porta-Aviões ocupa 4 espaços, o Cruzador ocupa 3 espaços, e a Fragata ocupa 2 espaços.</p>
+
+<img src="/assets/matrix_de_defesa.png" alt="Matriz de Defesa">
+
+## 🏆 Sistema de Pontuação
+
+<p>Quando o atacante acerta uma parte do Porta-Aviões, ele ganha 30 pontos. Ao acertar uma parte do Cruzador, ele ganha 40 pontos, e ao acertar uma parte da Fragata, ele ganha 50 pontos. Se o atacante esgotar as 50 tentativas sem acertar todas as embarcações, ele perde o jogo.</p>
+
+<img src="/assets/matrix_de_ataque.png" alt="Matriz de Ataque">
+
+## 🚀 Como executar este projeto
+
+<p>Para rodar o projeto, você precisa ter a versão mais recente do <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> instalada e uma IDE para Python configurada.</p>
+
+### 🔚 Conclusão do Projeto
+
+<p>Este projeto foi desenvolvido em Python e está concluído. Naval Battle é um jogo simples, porém desafiador, que proporciona uma experiência de estratégia e sorte.</p>
