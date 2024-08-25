@@ -26,7 +26,7 @@ python --version
 ```
 <p>Se Python estiver instalado, a versão instalada será exibida. Caso contrário, você precisará instalar o Python a partir do site oficial(https://www.python.org/downloads/).</p>
 
-<h3><li>Certifique-se de ter o Python instalado</li></h3>
+<h3><li>Execute o arquivo Python</li></h3>
 
 ```bash
 python naval_battle.py
