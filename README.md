@@ -1,5 +1,7 @@
  
 # Naval Battle ⚓
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
 
 <p>Naval Battle é um jogo em que você posiciona três tipos de embarcações em uma matriz: Porta-Aviões, Cruzador e Fragata. Um jogador atacante tenta acertar todas as embarcações com 50 tentativas. </p>
 
@@ -19,6 +21,4 @@
 
 <p>Para rodar o projeto, você precisa ter a versão mais recente do <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> instalada e uma IDE para Python configurada.</p>
 
-### 🔚 Conclusão do Projeto
 
-<p>Este projeto foi desenvolvido em Python e está concluído. Naval Battle é um jogo simples, porém desafiador, que proporciona uma experiência de estratégia e sorte.</p>
